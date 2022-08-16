@@ -1,0 +1,42 @@
+#shwcs {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+#src {
+    text-align: center;
+}
+h1 {
+    color: darkgreen;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    color: cornflowerblue;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#cartTotal {
+    color: cornflowerblue;
+    
+}
+#previousCart {
+    color: cornflowerblue;
+}
+#btnAspect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    flex-direction: row;
+}
+#closePCart {
+    color: cornflowerblue;
+}
+#previousCartContent {
+    size: 100px;
+}
+#rebootCart {
+    color: cornflowerblue;
+}
